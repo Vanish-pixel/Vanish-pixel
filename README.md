@@ -13,7 +13,7 @@
 - 🖥️ Interested in system integration and IT infrastructure
 - ⚙️ Working with servers, networks and administration
 - 🎮 Creating Minecraft projects with Skript
-- 🌐 Management at Skydinse.net
+- 🌐 Part of the management team at Skydinse
 
 ## 💻 Languages & Technologies
 
