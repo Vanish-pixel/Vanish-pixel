@@ -1,37 +1,36 @@
+```md
 <h1 align="center">Hey, I'm Valentin 👋</h1>
 
 <p align="center">
-  Fachinformatiker für Systemintegration · Server Administration · Minecraft Projects
+  System Integration · Server Administration · Minecraft Projects
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile%20Views&style=flat-square" />
 </p>
 
-## About me
+## About Me
 
-- 🖥️ Apprentice IT Specialist for System Integration
-- ⚙️ Interested in servers, networks and system administration
-- 🎮 Working on Minecraft projects and server infrastructure
+- 🖥️ Interested in system integration and IT infrastructure
+- ⚙️ Working with servers, networks and system administration
+- 🎮 Creating Minecraft server systems and projects
 - 🌐 Part of the management team at Skydinse
-
-
-## Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
-</p>
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,cloudflare" />
-</p>
+- 🚀 Always learning and building new things
 
 ## Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=cs,html" />
+</p>
+
+- C#
+- Skript
+- HTML
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
 </p>
 
 ## GitHub Stats
@@ -44,3 +43,4 @@
 
 - Discord: `DEIN_DISCORD_NAME`
 - Website: `DEINE_WEBSITE`
+```
