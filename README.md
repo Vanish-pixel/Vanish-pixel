@@ -37,7 +37,7 @@
 ## 🏅 Certifications
 
 <p>
-  <img src="./IMG_4461.png" width="120" alt="Cisco Introduction to Cybersecurity">
+  <img src="./IMG_4466.png" width="120" alt="Cisco Certification">
 </p>
 
 ## 📫 Contact
