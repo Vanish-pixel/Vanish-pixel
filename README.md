@@ -37,7 +37,8 @@
 ## 🏅 Certifications
 
 <p>
-  <img src="./IMG_4466.png" width="120" alt="Cisco Certification">
+  <img src="./IMG_4466.png" width="120" alt="Cisco Introduction to Cybersecurity">
+  <img src="./IMG_4468.png" width="120" alt="Cisco Junior Cybersecurity Analyst Career Path">
 </p>
 
 ## 📫 Contact
