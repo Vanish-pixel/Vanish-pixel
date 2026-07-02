@@ -38,13 +38,13 @@
 
 <p>
   <a href="https://www.credly.com/badges/d3acab40-69e2-4607-a972-837e4f76c6d2/public_url">
-    <img src="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/main/cisco-cybersecurity.png" width="90" alt="Cisco Introduction to Cybersecurity">
+    <img src="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/main/cisco-cybersecurity.png" width="80" height="80" alt="Cisco Introduction to Cybersecurity">
   </a>
 
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?style=flat-square&logo=microsoft&logoColor=white" height="22" alt="Microsoft Learn">
-  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Profile-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="22" alt="Cisco Networking Academy">
-  <img src="https://img.shields.io/badge/Credly-Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white" height="22" alt="Credly">
-  <img src="https://img.shields.io/badge/GitHub-Vanish--pixel-181717?style=flat-square&logo=github&logoColor=white" height="22" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="80" height="80" alt="Microsoft">
+  <img src="https://cdn.simpleicons.org/cisco" width="80" height="80" alt="Cisco">
+  <img src="https://cdn.simpleicons.org/credly" width="80" height="80" alt="Credly">
+  <img src="https://cdn.simpleicons.org/github" width="80" height="80" alt="GitHub">
 </p>
 
 ## 📫 Contact
