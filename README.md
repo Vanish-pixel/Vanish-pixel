@@ -37,10 +37,6 @@
 ## 🏅 Certifications
 
 <p>
-  <a href="https://www.credly.com/badges/d3acab40-69e2-4607-a972-837e4f76c6d2/public_url">
-    <img src="./IMG_4463.png" width="120" alt="Cisco Certification">
-  </a>
-
   <img src="./IMG_4461.png" width="120" alt="Cisco Introduction to Cybersecurity">
 </p>
 
