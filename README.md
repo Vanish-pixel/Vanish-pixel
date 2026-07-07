@@ -8,13 +8,10 @@
 
 ## 🧑‍💻 About me
 
-```yaml
-name:       Valentin
-role:       System Integration & Server Admin
-team:       Skydinse Management
-passion:    Minecraft projects with Skript
-os:         Windows · Ubuntu · macOS
-```
+- 🖥️ Interested in system integration and IT infrastructure
+- ⚙️ Working with servers, networks, and administration
+- 🎮 Creating Minecraft projects with Skript
+- 🌐 Part of the management team at Skydinse
 
 ---
 
@@ -71,16 +68,6 @@ os:         Windows · Ubuntu · macOS
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-pixel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Vanish-pixel&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vanish-pixel&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
