@@ -34,12 +34,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,discord" height="48" alt="VS Code, Git, GitHub and Discord">
 </p>
 
-## 🏅 Certifications
-
-<p>
-  <img src="./IMG_4466.png" width="120" alt="Cisco Introduction to Cybersecurity">
-  <img src="./IMG_4468.png" width="120" alt="Cisco Junior Cybersecurity Analyst Career Path">
-</p>
 
 ## 📫 Contact
 
