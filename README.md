@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="valentin@skydinse terminal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=sudo+rm+-rf+langeweile%2F;while%28true%29+%7B+skript%28%29%3B+%7D;systemctl+restart+kaffee.service;es+l%C3%A4uft+auf+meinem+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=building+stuff+with+skript;have+you+tried+turning+it+off+and+on+again%3F;works+on+my+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;404%3A+sleep+not+found" alt="Typing SVG" />
 
 ![visitors](https://komarev.com/ghpvc/?username=Vanish-pixel&color=3fb950&style=flat-square&label=visitors)
 
@@ -12,10 +12,10 @@
 
 ```console
 valentin@skydinse:~$ cat about.txt
-cat: about.txt: Datei nicht gefunden
+cat: about.txt: Permission denied
 
-valentin@skydinse:~$ sudo cat about.txt
-🎮 baut zeug mit skript   🖥️ hält server am leben   ☕ läuft auf koffein
+valentin@skydinse:~$ sudo !!
+runs skydinse servers · writes skript · reboots stuff until it works
 ```
 
 ## `~/loadout`

@@ -16,14 +16,14 @@
     <animate attributeName="opacity" to="1" dur="0.2s" begin="1s" fill="freeze"/>
   </text>
 
-  <text x="26" y="162" font-size="15" fill="#8b949e" opacity="0">Server-Flüsterer · Minecraft-Skripter · Skydinse-Crew
+  <text x="26" y="162" font-size="15" fill="#8b949e" opacity="0">server admin · minecraft dev · skydinse
     <animate attributeName="opacity" to="1" dur="0.2s" begin="1.5s" fill="freeze"/>
   </text>
 
   <g font-size="14" opacity="0">
-    <text x="26" y="206"><tspan fill="#3fb950">[ OK ]</tspan><tspan fill="#c9d1d9"> server läuft</tspan></text>
-    <text x="280" y="206"><tspan fill="#d29922">[WARN]</tspan><tspan fill="#c9d1d9"> kaffee leer</tspan></text>
-    <text x="530" y="206"><tspan fill="#3fb950">[ OK ]</tspan><tspan fill="#c9d1d9"> minecraft läuft</tspan></text>
+    <text x="26" y="206"><tspan fill="#3fb950">[ OK ]</tspan><tspan fill="#c9d1d9"> servers</tspan></text>
+    <text x="260" y="206"><tspan fill="#3fb950">[ OK ]</tspan><tspan fill="#c9d1d9"> network</tspan></text>
+    <text x="494" y="206"><tspan fill="#3fb950">[ OK ]</tspan><tspan fill="#c9d1d9"> minecraft</tspan></text>
     <animate attributeName="opacity" to="1" dur="0.2s" begin="2.1s" fill="freeze"/>
   </g>
 
