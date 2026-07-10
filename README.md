@@ -15,7 +15,7 @@ valentin@skydinse:~$ cat about.txt
 cat: about.txt: Permission denied
 
 valentin@skydinse:~$ sudo !!
-runs skydinse servers · writes skript · reboots stuff until it works
+team @ skydinse · writes skript · reboots stuff until it works
 ```
 
 ## `~/loadout`
