@@ -1,61 +1,37 @@
-<div align="center">
+<img src="assets/hero.svg" width="100%" alt="Hello — I am Valentin. Focused on systems, networks, cyber security and practical IT projects." />
 
-<img src="assets/header.svg" width="100%" alt="valentin@skydinse terminal" />
+<br />
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=building+websites+with+html+%26+css;have+you+tried+turning+it+off+and+on+again%3F;works+on+my+server+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;afk+%3D+probably+fixing+a+server" alt="Typing SVG" />
-
-![visitors](https://komarev.com/ghpvc/?username=Vanish-pixel&color=3fb950&style=flat-square&label=visitors)
-
-</div>
-
-## `~/about`
-
-```console
-valentin@skydinse:~$ cat about.txt
-cat: about.txt: Permission denied
-
-valentin@skydinse:~$ sudo !!
-team @ skydinse · builds websites · reboots stuff until it works
-```
-
-## `~/loadout`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,html,css" height="44" />
-<img src="https://avatars.githubusercontent.com/u/39464898?s=64&v=4" height="44" title="Skript" />
-
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,apple,vscode,git,github,discord" height="44" />
-
-</div>
+<img src="assets/label-work.svg" height="28" alt="What I work with" />
 
 <br />
 
-<div align="center">
+`C#` · `HTML & CSS` · `Git & GitHub` · `Linux` · `Networking` · `Discord Bots` · `Minecraft Servers`
 
-<img src="assets/matrix.svg" width="100%" alt="matrix rain terminal" />
+<br />
 
-</div>
+<img src="assets/label-experience.svg" height="28" alt="Experience" />
 
-## `~/activity`
+<br />
 
-<div align="center">
+**Community & Project Management** · [skydinse.net](https://skydinse.net)<br />
+Community management, coordination of community projects, event organization and team support.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanish-pixel&bg_color=0D1117&color=8B949E&line=3FB950&point=C9D1D9&hide_border=true&area=true&area_color=3FB950" width="100%" />
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Vanish-pixel/Vanish-pixel/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="assets/label-projects.svg" height="28" alt="Selected work" />
 
-</div>
+<br />
 
-## `~/ping valentin`
+**[Portfolio Website](https://vanish-pixel.github.io/portfolio/)**<br />
+A minimal personal portfolio built with HTML, CSS and JavaScript — hosted on GitHub Pages.
 
-<div align="center">
+**Discord Warning Bot**<br />
+A Discord bot for internal team warnings, structured warning levels and logging.
 
-[![Discord](https://img.shields.io/badge/Discord-vaniish7__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vaniish7_)
-&nbsp;
-[![Email](https://img.shields.io/badge/Mail-vanish.management@gmx.de-3FB950?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanish.management@gmx.de)
+<br />
 
-</div>
+---
+
+<sub>[Portfolio ↗](https://vanish-pixel.github.io/portfolio/) &nbsp;·&nbsp; [Discord ↗](https://discord.com/users/1333795027444564071) &nbsp;·&nbsp; [Mail ↗](mailto:vanish.management@gmx.de)</sub>
