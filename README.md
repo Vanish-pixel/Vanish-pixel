@@ -1,37 +1,32 @@
-<img src="assets/hero.svg" width="100%" alt="Hello — I am Valentin. Focused on systems, networks, cyber security and practical IT projects." />
+<img src="assets/hero.svg" width="100%" alt="Hello — I am Valentin. I build practical projects around systems, networks and cybersecurity." />
 
-<br />
-<br />
+## About me
 
-<img src="assets/label-work.svg" height="28" alt="What I work with" />
+I am Valentin, an IT enthusiast focused on **systems, networking and cybersecurity**. I enjoy turning ideas into practical projects, learning how infrastructure works and helping online communities grow.
 
-<br />
+## What I work with
 
-`C#` · `HTML & CSS` · `Git & GitHub` · `Linux` · `Networking` · `Discord Bots` · `Minecraft Servers`
+- **Development:** C#, HTML, CSS and JavaScript
+- **Tools & platforms:** Git, GitHub and Linux
+- **Infrastructure:** Networking and Minecraft servers
+- **Automation:** Discord bots and structured logging
 
-<br />
+## Experience
 
-<img src="assets/label-experience.svg" height="28" alt="Experience" />
+### Community & Project Management · [skydinse.net](https://skydinse.net)
 
-<br />
+Community management, coordination of community projects and event organization. I focus on clear communication, reliable processes and creating a good experience for community members.
 
-**Community & Project Management** · [skydinse.net](https://skydinse.net)<br />
-Community management, coordination of community projects and event organization.
+## Selected work
 
-<br />
+### [Portfolio Website](https://vanish-pixel.github.io/portfolio/)
 
-<img src="assets/label-projects.svg" height="28" alt="Selected work" />
+A responsive personal portfolio built with HTML, CSS and JavaScript and hosted on GitHub Pages.
 
-<br />
+### Discord Warning Bot
 
-**[Portfolio Website](https://vanish-pixel.github.io/portfolio/)**<br />
-A minimal personal portfolio built with HTML, CSS and JavaScript — hosted on GitHub Pages.
-
-**Discord Warning Bot**<br />
-A Discord bot for internal team warnings, structured warning levels and logging.
-
-<br />
+A Discord bot for internal team warnings with structured warning levels and logging. Built to make moderation workflows clearer and easier to track.
 
 ---
 
-<sub>[Portfolio ↗](https://vanish-pixel.github.io/portfolio/) &nbsp;·&nbsp; [Discord ↗](https://discord.com/users/1333795027444564071) &nbsp;·&nbsp; [Mail ↗](mailto:vanish.management@gmx.de)</sub>
+[Portfolio](https://vanish-pixel.github.io/portfolio/) · [Discord](https://discord.com/users/1333795027444564071) · [Email](mailto:vanish.management@gmx.de)
