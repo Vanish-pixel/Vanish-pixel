@@ -1,20 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Hello — I am Valentin. Focused on systems, networks, cyber security and practical IT projects.">
-  <!-- Dark hero card, styled after vanish-pixel.github.io/portfolio -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Hello — I am Valentin. I build practical projects around systems, networks and cybersecurity.">
+  <!-- Aurora hero card: deep indigo with violet, pink and cyan glows and a network constellation -->
   <defs>
-    <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
-      <feColorMatrix type="saturate" values="0"/>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#160b2e"/>
+      <stop offset="0.55" stop-color="#1c1142"/>
+      <stop offset="1" stop-color="#0e1b3a"/>
+    </linearGradient>
+    <radialGradient id="glowViolet" cx="0.88" cy="0.05" r="0.75">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0.04" cy="1" r="0.85">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="0.62" cy="0.95" r="0.5">
+      <stop offset="0" stop-color="#ec4899" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="0.45" stop-color="#f0abfc"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="460" fill="#070707"/>
-  <rect width="1200" height="460" filter="url(#noise)" opacity="0.04"/>
-  <rect x="0.5" y="0.5" width="1199" height="459" fill="none" stroke="#252525"/>
+  <rect width="1200" height="440" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="26" fill="url(#glowViolet)"/>
+  <rect width="1200" height="440" rx="26" fill="url(#glowCyan)"/>
+  <rect width="1200" height="440" rx="26" fill="url(#glowPink)"/>
 
-  <text x="70" y="100" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="15" letter-spacing="4" fill="#9cff57">HELLO</text>
+  <!-- network constellation -->
+  <g stroke="#a5b4fc" stroke-opacity="0.3" stroke-width="1.2">
+    <line x1="890" y1="110" x2="1010" y2="70"/>
+    <line x1="1010" y1="70" x2="1120" y2="140"/>
+    <line x1="890" y1="110" x2="955" y2="195"/>
+    <line x1="955" y1="195" x2="1120" y2="140"/>
+    <line x1="955" y1="195" x2="1075" y2="250"/>
+    <line x1="1075" y1="250" x2="1145" y2="330"/>
+    <line x1="1075" y1="250" x2="985" y2="330"/>
+    <line x1="985" y1="330" x2="890" y2="270"/>
+    <line x1="890" y1="270" x2="955" y2="195"/>
+    <line x1="985" y1="330" x2="1040" y2="375"/>
+  </g>
+  <g fill="#e0e7ff">
+    <circle cx="890" cy="110" r="3.5"/>
+    <circle cx="1120" cy="140" r="3.5"/>
+    <circle cx="955" cy="195" r="3.5"/>
+    <circle cx="1145" cy="330" r="3.5"/>
+    <circle cx="890" cy="270" r="3.5"/>
+    <circle cx="1040" cy="375" r="3.5"/>
+  </g>
+  <circle cx="1010" cy="70" r="5" fill="#f0abfc"/>
+  <circle cx="1010" cy="70" r="10" fill="none" stroke="#f0abfc" stroke-opacity="0.35"/>
+  <circle cx="1075" cy="250" r="5" fill="#67e8f9"/>
+  <circle cx="1075" cy="250" r="10" fill="none" stroke="#67e8f9" stroke-opacity="0.35"/>
+  <circle cx="985" cy="330" r="4.5" fill="#c4b5fd"/>
 
-  <text x="66" y="212" font-family="-apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-4" fill="#f5f5f5">I am</text>
-  <text x="66" y="316" font-family="-apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-4" fill="none" stroke="#777777" stroke-width="1.6">Valentin.</text>
+  <rect x="0.75" y="0.75" width="1198.5" height="438.5" rx="25.25" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1.5"/>
 
-  <text x="70" y="390" font-family="-apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#909090">Focused on systems, networks, cyber security and practical IT projects.</text>
+  <text x="78" y="116" font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="14" letter-spacing="6" fill="#67e8f9">SYSTEMS · NETWORKS · CYBERSECURITY</text>
+
+  <text x="74" y="258" font-family="-apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="116" font-weight="800" letter-spacing="-3" fill="url(#name)">Valentin</text>
+
+  <rect x="80" y="292" width="190" height="7" rx="3.5" fill="url(#bar)"/>
+
+  <text x="78" y="360" font-family="-apple-system, 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#b8c0e8">I build practical projects around systems, networks and cybersecurity.</text>
 </svg>
