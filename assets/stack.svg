@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="156" viewBox="0 0 880 156" role="img" aria-label="Tech stack">
+  <defs>
+    <radialGradient id="sglow" cx="0.5" cy="-0.15" r="0.9">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="878.5" height="154.5" rx="16" fill="#0a0a10" stroke="#26263a" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="878.5" height="154.5" rx="16" fill="url(#sglow)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, monospace" font-size="14" fill="#d6d6e2">
+    <!-- row 1 -->
+    <g>
+      <rect x="199" y="34" width="52"  height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="225" y="58" text-anchor="middle">C#</text>
+      <rect x="263" y="34" width="116" height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="321" y="58" text-anchor="middle">JavaScript</text>
+      <rect x="391" y="34" width="66"  height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="424" y="58" text-anchor="middle">HTML</text>
+      <rect x="469" y="34" width="57"  height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="498" y="58" text-anchor="middle">CSS</text>
+      <rect x="538" y="34" width="57"  height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="567" y="58" text-anchor="middle">Git</text>
+      <rect x="607" y="34" width="74"  height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="644" y="58" text-anchor="middle">Linux</text>
+    </g>
+    <!-- row 2 -->
+    <g>
+      <rect x="119" y="90" width="116" height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="177" y="114" text-anchor="middle">Networking</text>
+      <rect x="247" y="90" width="175" height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="335" y="114" text-anchor="middle">Minecraft Servers</text>
+      <rect x="434" y="90" width="133" height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="501" y="114" text-anchor="middle">Discord Bots</text>
+      <rect x="579" y="90" width="183" height="38" rx="9" fill="#14141d" stroke="#2b2b3d"/><text x="671" y="114" text-anchor="middle">Structured Logging</text>
+    </g>
+  </g>
+</svg>
