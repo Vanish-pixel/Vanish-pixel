@@ -5,4 +5,3 @@
 <p align="center">
   <img src="assets/market.svg" width="900" alt="" />
 </p>
-
