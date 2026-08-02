@@ -14,13 +14,13 @@
   <img src="assets/divider.svg" width="900" alt="" />
 </p>
 
-## Overview
+## 🧭 Overview
 
 I build and run things on both sides of the stack — the interfaces people use, and the servers they run on.
 Most of my work sits somewhere between web development, bots and infrastructure, with a strong focus on
 clean structure, automation and long-living setups.
 
-## Current Focus
+## 🎯 Current Focus
 
 - Modern web applications, team dashboards and management systems
 - Discord bots for moderation, tickets and warning workflows
@@ -32,47 +32,41 @@ clean structure, automation and long-living setups.
   <img src="assets/divider.svg" width="900" alt="" />
 </p>
 
-## Tech
+## 🛠️ Languages and Tools I Use
 
-**Languages &amp; Technologies**
+**💻 Languages &amp; Technologies**
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-064E3B?style=flat&logo=dotnet&logoColor=F8E7C9" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML-064E3B?style=flat&logo=html5&logoColor=F8E7C9" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-064E3B?style=flat&logo=css&logoColor=F8E7C9" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-064E3B?style=flat&logo=javascript&logoColor=F8E7C9" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-064E3B?style=flat&logo=nodedotjs&logoColor=F8E7C9" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Skript-064E3B?style=flat" alt="Skript for Minecraft" />
-  <img src="https://img.shields.io/badge/Markdown-064E3B?style=flat&logo=markdown&logoColor=F8E7C9" alt="Markdown" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,nodejs,md&theme=dark" alt="C#, HTML, CSS, JavaScript, Node.js, Markdown" />
 </p>
 
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-064E3B?style=flat" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-064E3B?style=flat&logo=git&logoColor=F8E7C9" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-064E3B?style=flat&logo=github&logoColor=F8E7C9" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Discord-064E3B?style=flat&logo=discord&logoColor=F8E7C9" alt="Discord" />
-  <img src="https://img.shields.io/badge/Docker-064E3B?style=flat&logo=docker&logoColor=F8E7C9" alt="Docker" />
-  <img src="https://img.shields.io/badge/PM2-064E3B?style=flat&logo=pm2&logoColor=F8E7C9" alt="PM2" />
-  <img src="https://img.shields.io/badge/SSH-064E3B?style=flat" alt="SSH" />
-  <img src="https://img.shields.io/badge/Termius-064E3B?style=flat&logo=termius&logoColor=F8E7C9" alt="Termius" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Skript%20for%20Minecraft-064E3B?style=flat&labelColor=052E23" alt="Skript for Minecraft" />
 </p>
 
-**Systems**
+**🧰 Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-064E3B?style=flat" alt="Windows" />
-  <img src="https://img.shields.io/badge/Ubuntu-064E3B?style=flat&logo=ubuntu&logoColor=F8E7C9" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Linux%20Server-064E3B?style=flat&logo=linux&logoColor=F8E7C9" alt="Linux Server" />
-  <img src="https://img.shields.io/badge/macOS-064E3B?style=flat&logo=apple&logoColor=F8E7C9" alt="Apple / macOS" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,discord,docker&theme=dark" alt="VS Code, Git, GitHub, Discord, Docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PM2-064E3B?style=flat&labelColor=052E23&logo=pm2&logoColor=F8E7C9" alt="PM2" />
+  <img src="https://img.shields.io/badge/SSH-064E3B?style=flat&labelColor=052E23" alt="SSH" />
+  <img src="https://img.shields.io/badge/Termius-064E3B?style=flat&labelColor=052E23&logo=termius&logoColor=F8E7C9" alt="Termius" />
+</p>
+
+**🖥️ Systems**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,apple&theme=dark" alt="Windows, Ubuntu, Linux, Apple / macOS" />
 </p>
 
 <p align="center">
   <img src="assets/divider.svg" width="900" alt="" />
 </p>
 
-## What I Build
+## 📦 What I Build
 
 | Area | Work |
 | :--- | :--- |
@@ -85,7 +79,7 @@ clean structure, automation and long-living setups.
 > Not every project is solo work. Depending on the project I take the role of developer,
 > server administrator, or project and community management — sometimes several, sometimes one part of a team.
 
-## How I Work
+## ⚙️ How I Work
 
 - **Structure first** — readable projects beat clever one-offs
 - **Automate the repetition** — deployments, restarts and routine tasks belong to scripts
@@ -97,7 +91,7 @@ clean structure, automation and long-living setups.
   <img src="assets/divider.svg" width="900" alt="" />
 </p>
 
-## Connect
+## 🔗 Connect
 
 <p>
   <a href="https://github.com/Vanish-pixel">
