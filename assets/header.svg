@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Vanish – Supporter bei NoriskClient, Game Designer bei Sniffa Studio">
+  <title>Vanish</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04120E"/>
+      <stop offset="0.55" stop-color="#06231B"/>
+      <stop offset="1" stop-color="#041A14"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#0E7A5A" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0E7A5A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8E7C9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F8E7C9" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#F8E7C9" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#F8E7C9" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="1" y="1" width="898" height="258" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="258" rx="20" fill="url(#bg)"/>
+  <g clip-path="url(#card)">
+    <rect width="900" height="260" fill="url(#grid)"/>
+    <rect width="900" height="260" fill="url(#glow)"/>
+    <rect x="-220" y="1" width="220" height="1.5" fill="url(#sweep)">
+      <animate attributeName="x" values="-220;900" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="72" font-weight="700" letter-spacing="1" fill="#F8E7C9">Vanish</text>
+
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.5">
+      <rect x="150" y="170" width="280" height="40" rx="20" fill="#07281E" stroke="#12563F"/>
+      <text x="290" y="196" text-anchor="middle" fill="#F8E7C9" fill-opacity="0.9">Supporter · NoriskClient</text>
+
+      <rect x="470" y="170" width="280" height="40" rx="20" fill="#07281E" stroke="#12563F"/>
+      <text x="610" y="196" text-anchor="middle" fill="#F8E7C9" fill-opacity="0.9">Game Designer · Sniffa Studio</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="258" rx="20" fill="none" stroke="#10513C" stroke-width="1.5"/>
+</svg>
