@@ -1,11 +1,7 @@
 # Hi, ich bin Vanish 👋
 
-📍 Deutschland
-📅 Auf GitHub seit Januar 2026
-
-## 📂 Öffentliche Repositories
-
-- [**sandbox**](https://github.com/Vanish-pixel/sandbox) – persönliche Experimente
+- 🛠️ Supporter bei **NoriskClient**
+- 🎮 Game Designer bei **Sniffa Studio**
 
 ## 📊 Statistik
 
